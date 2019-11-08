@@ -1,0 +1,32 @@
+﻿Build started 5/14/2018 2:13:07 PM.
+     1>Project "C:\Users\Wafaa\Desktop\Samirajean's\Graphics Project\LAB1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(40): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(114): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(146): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(163): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(246): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(269): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(358): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(396): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(400): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(403): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(446): warning C4800: 'SHORT' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(450): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(451): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(456): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(457): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(462): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(469): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\wafaa\desktop\samirajean's\graphics project\main.cpp(515): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wafaa\Desktop\Samirajean's\Graphics Project\Debug\LAB1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Wafaa\Desktop\Samirajean's\Graphics Project\Debug\LAB1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wafaa\Desktop\Samirajean's\Graphics Project\Debug\LAB1.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\md2.obj
+         LAB1.vcxproj -> C:\Users\Wafaa\Desktop\Samirajean's\Graphics Project\Debug\LAB1.exe
+     1>Done Building Project "C:\Users\Wafaa\Desktop\Samirajean's\Graphics Project\LAB1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.55
